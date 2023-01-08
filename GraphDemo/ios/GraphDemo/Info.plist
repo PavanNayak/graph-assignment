@@ -35,6 +35,11 @@
 			</dict>
 		</dict>
 	</dict>
+
+	<key>NSFaceIDUsageDescription</key>
+	<string>App requires FaceID access to allows you quick and secure access.</string>
+
+
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
 	<key>UILaunchStoryboardName</key>
